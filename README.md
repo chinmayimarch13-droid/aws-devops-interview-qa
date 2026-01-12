@@ -1,4 +1,14 @@
-# AWS & DevOps Interview Q&A (Beginner)
+## CI/CD Pipeline – Simple Explanation
+
+A CI/CD pipeline automates the process of:
+1. Code commit to GitHub
+2. Automated build and testing
+3. Deployment to server or cloud
+
+CI stands for Continuous Integration.
+CD stands for Continuous Deployment or Delivery.
+
+This helps reduce manual errors and speeds up software delivery.# AWS & DevOps Interview Q&A (Beginner)
 
 This repository contains beginner-level interview questions and answers 
 related to AWS Cloud and DevOps concepts.
